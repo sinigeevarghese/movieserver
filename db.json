@@ -67,6 +67,7 @@
       "Name": "Matha",
       "Address": "aaa,Aluva",
       "Screen_no": "2",
+      "Ticket_cost": "140",
       "Total_seat_cpacity": [
         "A1",
         "A2",
@@ -117,6 +118,7 @@
       "Name": "Zeenath",
       "Address": "xxx,Aluva",
       "Screen_no": "1",
+      "Ticket_cost": "180",
       "Total_seat_cpacity": [
         "A1",
         "A2",
@@ -166,6 +168,7 @@
       "id": "0c94",
       "Name": "mathurya",
       "Address": "sss,Chalkkudy",
+      "Ticket_cost": "160",
       "Total_seat_cpacity": [
         "A1",
         "A2",
@@ -235,7 +238,10 @@
       "Movie_Name": "kalank",
       "Show_Time": "14:14",
       "theatre_id": "b7b7",
-      "reserved_seat": []
+      "reserved_seat": [
+        "C3",
+        "C4"
+      ]
     },
     {
       "id": "06ee",
